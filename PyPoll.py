@@ -92,6 +92,7 @@ winning_candidate_summary=(
 
 print(winning_candidate_summary)
 
+input("Press enter to quit.")
 
 
 

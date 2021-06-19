@@ -35,7 +35,7 @@ The candidate results were:
 The winner of the election was:
 - Diana DeGette with 272,892 total votes and 73.8% of the votes.
 
-[Election Analysis](
+[Election Analysis](Resources/election_analysis_txt_file.PNG)
 
 ## Challenge Overview
 

@@ -80,4 +80,4 @@ with open(file_to_save,"w") as txt_file:
     
     #print(winning_candidate_summary)
 
-    input("Press enter to quit.")
+    #input("Press enter to quit.")

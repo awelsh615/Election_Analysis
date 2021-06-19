@@ -44,7 +44,7 @@ This script is arbitrary to type of election, geographic location, and even numb
 
 Other demographic factors could be included as well.  For example, if we knew additional address information, age, income level, or gender, we could determine how each candidated fared within each demographic sample.  If we had the data, we could even determine in which counties a candidate campaigned, and what impact it had on the election.
 
-## Challenges of this Project
+### Challenges of this Project
 As a sidenote - I enjoyed this project a lot!  I am really enjoying coding with Python; some of my fortran experience from college is coming back to me.  Interestingly, I had very little trouble adding the county analysis to my code, but once I got it written and working, the election winner printout failed.  In my code, I wrote the following for the loop to count votes by county.  Initially, instead of using ```largest_county_votes```, I used just ```votes```.  I couldn't understand why that broke the last bit of my code until I realized that I also used the same ```votes``` counter in line 128 to count candidate votes.
 
 ```

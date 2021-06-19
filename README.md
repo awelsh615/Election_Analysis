@@ -39,7 +39,8 @@ The winner of the election was:
 
 ![Election Analysis](analysis/election_analysis_png.PNG)
 
-### Additional Uses
+### Extension of Project
 This script is arbitrary to type of election, geographic location, and even number of candidates.  Therefore, this script could be used to audit any government level election, in any location, for any number of candidates.  The analysis I performed gave the number of total voters by county, for example.  So we could determine which of the three counties had the highest voter turnout.  If we also had the total number of registered voters in each county, we could determine which county has the highest (or lowest) percentage of registered voters who participated in the election.
+
 Other demographic factors could be included as well.  For example, if we knew additional address information, age, income level, or gender, we could determine how each candidated fared within each demographic sample.  If we had the data, we could even determine in which counties a candidate campaigned, and what impact it had on the election.
 
